@@ -1,7 +1,8 @@
 {
   "scripts": {
     "format": "biome format --write",
-    "lint": "biome lint"
+    "lint": "biome lint",
+    "check": "biome check"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4"
